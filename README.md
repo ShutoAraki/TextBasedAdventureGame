@@ -1,2 +1,4 @@
-# TextBasedAdventureGame
-For the final project in CSC232: Object-Oriented Software Development
+# Group-3A-Rep
+
+Theme:
+  RPG style game
